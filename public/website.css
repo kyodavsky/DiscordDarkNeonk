@@ -1,5 +1,5 @@
 :root {
-  --rgb-highlight: 4, 217, 255 !important;
+  --rgb-highlight: 255, 0, 0 !important;
   --highlight: rgb(var(--rgb-highlight));
   --background: black !important;
   --close-button: #D41227 !important;
